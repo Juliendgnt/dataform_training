@@ -1,0 +1,11 @@
+
+config {
+  type: "view", // Creates a view in BigQuery. Try changing to "table" instead.
+  schema: "test_ds"
+}
+
+
+SELECT 
+    "test" as name,
+    "test2" as name2
+

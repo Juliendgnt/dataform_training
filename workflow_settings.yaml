@@ -1,0 +1,4 @@
+defaultProject: bigquery-demo-435515
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.42
